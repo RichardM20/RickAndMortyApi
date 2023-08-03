@@ -1,16 +1,8 @@
-# demo
+# APP
 
-A new Flutter project.
+Rick and Morty App
 
-## Getting Started
+## Contenido
 
-This project is a starting point for a Flutter application.
+Aplicacion sencilla para el listado de personajes de la serie rick and morty y al precionar sobre este mostrara el detalle consumiendo la api de: RickAndMorty[https://rickandmortyapi.com]
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
